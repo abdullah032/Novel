@@ -1,0 +1,84 @@
+[1mdiff --git a/chapter2.txt b/chapter2.txt[m
+[1mindex 827e25c..a0e04d1 100644[m
+[1m--- a/chapter2.txt[m
+[1m+++ b/chapter2.txt[m
+[36m@@ -1 +1,76 @@[m
+[31m-This is chapyter two![m
+\ No newline at end of file[m
+[32m+[m
+[32m+[m[32msd[m
+[32m+[m[32m ds[m
+[32m+[m[32m ds[m
+[32m+[m[32m ds[m
+[32m+[m[32m  sd dskldsnkl dsnknc dsndskns dklnds[m
+[32m+[m[32m   dsklndskln dskln dskln dskln dklndsnk lsnkln[m
+[32m+[m[32m   klsdnklds nkl dsnklsn dklsn klsn klsdnklds sld[m
+[32m+[m[32m   nskl ndsklnskldndsklndskndskn[m[41m [m
+[32m+[m[32m   skldn dsknkdslndsklnkdsndsknkdsnkns[m
+[32m+[m[32m   nsk dsknkdslndsklnkdsndsknkdsnknsnds[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndskl[m
+[32m+[m[32m   ndsklnskldndsklndskndskndsdsn[m
+[32m+[m[32m   klsnkln klnds kl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknklns[m
+[32m+[m[32m   dkln dskl[m
+[32m+[m[32m   n sdkl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndsklndskl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndskldnskl dnds ndsk n[m
+[32m+[m[32m   dskl[m
+[32m+[m[32m   nskl ndsklnskldndsklndskndskn[m[41m [m
+[32m+[m[32m   skldn dsknkdslndsklnkdsndsknkdsnkns[m
+[32m+[m[32m   nsk dsknkdslndsklnkdsndsknkdsnknsnds[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndskl[m
+[32m+[m[32m   ndsklnskldndsklndskndskndsdsn[m
+[32m+[m[32m   klsnkln klnds kl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknklns[m
+[32m+[m[32m   dkln dskl[m
+[32m+[m[32m   n sdkl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndsklndskl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndskldnskl dnds ndsk n[m
+[32m+[m[32m   dsklnskl ndsklnskldndsklndskndskn[m[41m [m
+[32m+[m[32m   skldn dsknkdslndsklnkdsndsknkdsnkns[m
+[32m+[m[32m   nsk dsknkdslndsklnkdsndsknkdsnknsnds[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndskl[m
+[32m+[m[32m   ndsklnskldndsklndskndskndsdsn[m
+[32m+[m[32m   klsnkln klnds kl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknklns[m
+[32m+[m[32m   dkln dskl[m
+[32m+[m[32m   n sdkl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndsklndskl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndskldnskl dnds ndsk n[m
+[32m+[m[32m   dsklnskl ndsklnskldndsklndskndskn[m[41m [m
+[32m+[m[32m   skldn dsknkdslndsklnkdsndsknkdsnkns[m
+[32m+[m[32m   nsk dsknkdslndsklnkdsndsknkdsnknsnds[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndskl[m
+[32m+[m[32m   ndsklnskldndsklndskndskndsdsn[m
+[32m+[m[32m   klsnkln klnds kl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknklns[m
+[32m+[m[32m   dkln dskl[m
+[32m+[m[32m   n sdkl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndsklndskl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndskldnskl dnds ndsk n[m
+[32m+[m[32m   dsklnskl ndsklnskldndsklndskndskn[m[41m [m
+[32m+[m[32m   skldn dsknkdslndsklnkdsndsknkdsnkns[m
+[32m+[m[32m   nsk dsknkdslndsklnkdsndsknkdsnknsnds[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndskl[m
+[32m+[m[32m   ndsklnskldndsklndskndskndsdsn[m
+[32m+[m[32m   klsnkln klnds kl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknklns[m
+[32m+[m[32m   dkln dskl[m
+[32m+[m[32m   n sdkl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndsklndskl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndskldnskl dnds ndsk n[m
+[32m+[m[32m   dsklnskl ndsklnskldndsklndskndskn[m[41m [m
+[32m+[m[32m   skldn dsknkdslndsklnkdsndsknkdsnkns[m
+[32m+[m[32m   nsk dsknkdslndsklnkdsndsknkdsnknsnds[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndskl[m
+[32m+[m[32m   ndsklnskldndsklndskndskndsdsn[m
+[32m+[m[32m   klsnkln klnds kl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknklns[m
+[32m+[m[32m   dkln dskl[m
+[32m+[m[32m   n sdkl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndsklndskl[m
+[32m+[m[32m   ndsklnskldndsklndskndsknsndsndskldnskl dnds ndsk n[m
+[32m+[m[32m   dskl[m
+\ No newline at end of file[m
